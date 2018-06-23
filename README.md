@@ -6,9 +6,8 @@ Calculate amout of fuel to be refueled
 <code> npm i </code>
 
 
-#usage
+# usage
 
 <pre>
 $> node calc.js
 </pre>
-
